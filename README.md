@@ -7,6 +7,6 @@
 - [ ] Создан репозиторий в моём [личном GitHub](https://github.com/Katerina-105/stack_max_vs.git) и опубликована там моя программа из 1 семестра.
 - [ ] Пройдена интерактивная обучалка [про ветвление в Git](https://learngitbranching.js.org/?locale=ru_RU).
  </br>     
-![Пройденная обучалка](pic_my1.PNG)
+![Пройденная обучалка](pic_my1.png)
 
 
